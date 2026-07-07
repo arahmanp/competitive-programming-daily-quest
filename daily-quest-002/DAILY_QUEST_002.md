@@ -18,5 +18,5 @@
 
 > [!WARNING]
 > **Problems to review:**
-> - a
-> -
+> - [DCEPC12E - End of Fun](https://www.spoj.com/problems/DCEPC12E/)
+> - [FERT21_0 - Matches](https://www.spoj.com/problems/FERT21_0/)
