@@ -1,7 +1,7 @@
 # Daily Quest 2
 **Date:** Tuesday, July 7, 2026
 
-**Today's main topics:** Searching, Math, Greedy, Ad Hoc, Brute Force  
+**Today's main topics:** Searching, Math, Greedy, Ad Hoc, Brute Force, Constructive  
 **Platforms:** Codeforces, SPOJ, TLX
 
 ## Codeforces
