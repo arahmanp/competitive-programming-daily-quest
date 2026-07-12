@@ -1,3 +1,9 @@
+// Problem Name: Naik dan Turun
+// Platform: TLX
+// Tags: Ad Hoc
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/troc-1/C          
+
 #include <algorithm>
 #include <ios>
 #include <iostream>

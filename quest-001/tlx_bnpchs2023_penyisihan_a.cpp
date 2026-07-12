@@ -1,3 +1,9 @@
+// Problem Name: Djio dan Misdekripsi
+// Platform: TLX
+// Tags: Ad Hoc
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/bnpchs-2023-penyisihan/A
+
 #include <cstddef>
 #include <ios>
 #include <iostream>

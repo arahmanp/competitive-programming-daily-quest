@@ -1,3 +1,9 @@
+// Problem Name: Bilangan dan Operasi
+// Platform: TLX
+// Tags: Ad Hoc
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/troc-13/C
+
 #include <ios>
 #include <iostream>
 #include <unordered_set>

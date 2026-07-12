@@ -1,3 +1,9 @@
+// Problem Name: Antimedian Deletion
+// Platform: Codeforces
+// Tags: Implementation, Math
+// Verdict: Accepted
+// URL: https://codeforces.com/problemset/problem/2211/A
+
 #include <ios>
 #include <iostream>
 #include <vector>
