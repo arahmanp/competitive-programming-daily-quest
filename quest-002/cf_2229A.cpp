@@ -1,3 +1,9 @@
+// Problem Name: Slimes on a Line
+// Platform: Codeforces
+// Tags: Brute Force, Math, Greedy
+// Verdict: Accepted
+// URL: https://codeforces.com/problemset/problem/2229/A
+
 #include <algorithm>
 #include <cstdlib>
 #include <ios>

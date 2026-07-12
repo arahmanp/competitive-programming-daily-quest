@@ -1,3 +1,9 @@
+// Problem Name: Pengurutan Bergelembung
+// Platform: TLX
+// Tags: Implementation
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/osn-2010/0C
+
 #include <ios>
 #include <iostream>
 #include <string>

@@ -1,3 +1,9 @@
+// Problem Name: Angka 5
+// Platform: TLX
+// Tags: Implementation
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/osn-2008/2H
+
 #include <ios>
 #include <iostream>
 #include <vector>

@@ -1,3 +1,9 @@
+// Problem Name: Melukis
+// Platform: TLX
+// Tags: Implementation
+// Verdict: Accepted
+// URL: https://tlx.toki.id/problems/osn-2010/2A
+
 #include <ios>
 #include <iostream>
 #include <vector>
